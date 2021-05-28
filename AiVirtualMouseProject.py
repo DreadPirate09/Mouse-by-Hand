@@ -5,7 +5,7 @@ import time
 import autopy
 
 ##########################
-wCam, hCam = 1280, 720
+wCam, hCam = 1280, 720 
 frameR = 100  # Frame Reduction
 smoothening = 7
 #########################
