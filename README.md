@@ -1,0 +1,2 @@
+# Mouse-by-Hand
+with this python script you can use your hand to replace the mouse by using your fingers.
